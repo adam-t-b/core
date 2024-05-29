@@ -909,6 +909,8 @@ build.json @home-assistant/supervisor
 /homeassistant/components/neato/ @Santobert
 /tests/components/neato/ @Santobert
 /homeassistant/components/nederlandse_spoorwegen/ @YarmoM
+/homeassistant/components/nep/ @adam-t-b
+/tests/components/nep/ @adam-t-b
 /homeassistant/components/ness_alarm/ @nickw444
 /tests/components/ness_alarm/ @nickw444
 /homeassistant/components/nest/ @allenporter

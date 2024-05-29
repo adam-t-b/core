@@ -353,6 +353,7 @@ FLOWS = {
         "nam",
         "nanoleaf",
         "neato",
+        "nep",
         "nest",
         "netatmo",
         "netgear",
